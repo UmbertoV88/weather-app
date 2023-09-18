@@ -1,6 +1,7 @@
 # weather-app
 
 Description
+
 WeatherApp is a web application that allows you to get up-to-date weather information for any city you desire. With a clear and intuitive user interface, you can easily search for your favorite city and discover the current temperature, humidity, and wind speed. Whether you're planning a trip or just curious about the weather conditions in a specific location, WeatherApp provides you with accurate real-time data.
 
 Key Features
